@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "784407242619",
+    "firebase_url": "https://tester-guru.firebaseio.com",
+    "project_id": "tester-guru",
+    "storage_bucket": "tester-guru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784407242619:android:09546560b4505797",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784407242619-b6rhejlgmng2qkrqdjsuff246o8clul9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.samples.apps.mlkit",
+            "certificate_hash": "c03615f80dee32ca4e2cd4370b766b7cb88e9d65"
+          }
+        },
+        {
+          "client_id": "784407242619-9i8qdrdvhanj9l46eskmh9jb9rojbi7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMI9XTLmdpNF0ooaAgacOqnGCz2rWu3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784407242619-9i8qdrdvhanj9l46eskmh9jb9rojbi7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784407242619:android:b1276507ec0daf89",
+        "android_client_info": {
+          "package_name": "textrecognition.its.guru.mlimagemeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784407242619-9i8qdrdvhanj9l46eskmh9jb9rojbi7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMI9XTLmdpNF0ooaAgacOqnGCz2rWu3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784407242619:android:06da36b3050dd596",
+        "android_client_info": {
+          "package_name": "textrecognition.its.guru.mltextrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784407242619-slr4p69b0i0kgl5jo9mob6panv896l2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "textrecognition.its.guru.mltextrecognition",
+            "certificate_hash": "c03615f80dee32ca4e2cd4370b766b7cb88e9d65"
+          }
+        },
+        {
+          "client_id": "784407242619-9i8qdrdvhanj9l46eskmh9jb9rojbi7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMI9XTLmdpNF0ooaAgacOqnGCz2rWu3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784407242619-9i8qdrdvhanj9l46eskmh9jb9rojbi7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
