@@ -11,7 +11,11 @@
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
-
+/*
+Author: Gurubalan Harikrishnan
+Tool: Android Studio Canary, Firebase Vision
+This is licensed and is for documentation purposes only.
+ */
 package com.google.firebase.samples.apps.mlkit;
 
 import android.Manifest;
