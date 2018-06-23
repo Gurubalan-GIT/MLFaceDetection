@@ -131,9 +131,6 @@ public class CameraSource {
     processingRunnable = new FrameProcessingRunnable();
   }
 
-  // ==============================================================================================
-  // Public
-  // ==============================================================================================
 
   /** Stops the camera and releases the resources of the camera and underlying detector. */
   public void release() {
