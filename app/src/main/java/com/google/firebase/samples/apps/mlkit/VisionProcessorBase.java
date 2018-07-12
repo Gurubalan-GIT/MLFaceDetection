@@ -13,13 +13,7 @@ import com.google.firebase.ml.vision.common.FirebaseVisionImageMetadata;
 import java.nio.ByteBuffer;
 import java.util.concurrent.atomic.AtomicBoolean;
 
-/**
- * Abstract base class for ML Kit frame processors. Subclasses need to implement {@link
- * #onSuccess(T, FrameMetadata, GraphicOverlay)} to define what they want to with the detection
- * results and {@link #detectInImage(FirebaseVisionImage)} to specify the detector object.
- *
- * @param <T> The type of the detected feature.
- */
+
 public abstract class VisionProcessorBase<T> implements VisionImageProcessor {
 
     // Whether we should ignore process(). This is usually caused by feeding input data faster than
